@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "42866973246",
+    "firebase_url": "https://aptriapp.firebaseio.com",
+    "project_id": "aptriapp",
+    "storage_bucket": "aptriapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42866973246:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42866973246-i68g7obg9urc4mmamemeb0n7qfjvpg00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "595d689bc1f1e2326aa3818bf91f54a7b8f9dafc"
+          }
+        },
+        {
+          "client_id": "42866973246-7alrj2qcppr94uspc22uo4vsgjr9revd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoOziQUbSUQeSzwjXklOB4or_R1NbUesA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42866973246-7alrj2qcppr94uspc22uo4vsgjr9revd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

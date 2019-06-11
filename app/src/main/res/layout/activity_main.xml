@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    tools:context=".HomeActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.AppCompatImageView
+            android:layout_width="match_parent"
+            android:layout_height="275dp"
+            android:scaleType="fitStart"
+            android:src="@drawable/startup" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="WELCOME TO THE APTRI APP DEVELOPED FOR THE AUTOMATION OF TRAINING AND ATTENDANCE PROCESS OF THE TRAINEES AT APTRI.
+APTRI IS THE RESEARCH AND PERFORMANCE CONSULTING ARM OF ADANI. "
+            android:textColor="#ffffff"
+            android:textSize="30dp"
+            android:layout_marginTop="2dp"/>
+    </LinearLayout>
+
+</LinearLayout>
