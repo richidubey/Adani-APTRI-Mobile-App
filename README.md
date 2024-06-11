@@ -1,5 +1,4 @@
 # Adani-APTRI-Mobile-App
-Repository for Official Adani Power's APTRI App    
 
 Uses jQuery for frontend and Google's Firebase for backend services including Authentication, Database and Cloud Storage.
 
